@@ -1,0 +1,7 @@
+.idea
+.git
+.vagrant
+logs
+upload
+vendor
+media/*.png
